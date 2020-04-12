@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/.github.io/yoga/static/css/main.f32c61e4.chunk.css",
+    "main.js": "/.github.io/yoga/static/js/main.264f9b20.chunk.js",
+    "main.js.map": "/.github.io/yoga/static/js/main.264f9b20.chunk.js.map",
+    "runtime-main.js": "/.github.io/yoga/static/js/runtime-main.dee7d23d.js",
+    "runtime-main.js.map": "/.github.io/yoga/static/js/runtime-main.dee7d23d.js.map",
+    "static/css/2.de424728.chunk.css": "/.github.io/yoga/static/css/2.de424728.chunk.css",
+    "static/js/2.f8832d1e.chunk.js": "/.github.io/yoga/static/js/2.f8832d1e.chunk.js",
+    "static/js/2.f8832d1e.chunk.js.map": "/.github.io/yoga/static/js/2.f8832d1e.chunk.js.map",
+    "index.html": "/.github.io/yoga/index.html",
+    "precache-manifest.5703faa17c2eb8e531e4510a6e4922ce.js": "/.github.io/yoga/precache-manifest.5703faa17c2eb8e531e4510a6e4922ce.js",
+    "service-worker.js": "/.github.io/yoga/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/.github.io/yoga/static/css/2.de424728.chunk.css.map",
+    "static/css/main.f32c61e4.chunk.css.map": "/.github.io/yoga/static/css/main.f32c61e4.chunk.css.map",
+    "static/js/2.f8832d1e.chunk.js.LICENSE.txt": "/.github.io/yoga/static/js/2.f8832d1e.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/.github.io/yoga/static/media/1.fbf3d6b2.png",
+    "static/media/2.png": "/.github.io/yoga/static/media/2.fd20b728.png",
+    "static/media/Captura.PNG": "/.github.io/yoga/static/media/Captura.961081a9.PNG",
+    "static/media/Captura2.PNG": "/.github.io/yoga/static/media/Captura2.ae818f68.PNG",
+    "static/media/Captura3.PNG": "/.github.io/yoga/static/media/Captura3.a700a3cd.PNG",
+    "static/media/instagram.png": "/.github.io/yoga/static/media/instagram.5c570427.png",
+    "static/media/twitter.png": "/.github.io/yoga/static/media/twitter.8f35a404.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee7d23d.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.f8832d1e.chunk.js",
+    "static/css/main.f32c61e4.chunk.css",
+    "static/js/main.264f9b20.chunk.js"
+  ]
+}
